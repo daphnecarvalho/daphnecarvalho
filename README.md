@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning TypeScript, Node.js, ReactJS, and React Native
+- 🌱 I’m currently learning TypeScript, Elixir, Node.js, ReactJS, and React Native
+
+<br/>
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daphnecarvalho&show_icons=true&hide_border=true&locale=en&layout=compact&theme=dracula" alt="daphnecarvalho" /></div>
+
+<br/>
+
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=daphnecarvalho&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="daphnecarvalho" /></div>
 
 <!-- 
 - 🔭 I’m currently working on ...
