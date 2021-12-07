@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
+
+I'm [Daphne Carvalho](https://www.linkedin.com/in/daphnecarvalho/).
+I'm a Computer Engineer focused on quality and efficiency during software development. <br/>
+I have experience working as a full-stack (front/back-end) web developer.
+
 
 - 🌱 I’m currently learning TypeScript, Elixir, Node.js, ReactJS, and React Native
 
@@ -12,6 +17,7 @@
 
 ![Snake animation](https://github.com/daphnecarvalho/daphnecarvalho/blob/output/github-contribution-grid-snake.svg)
 
+### Contact info
 <a href="https://www.linkedin.com/in/daphnecarvalho/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
