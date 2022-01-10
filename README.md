@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
-
+### Hi there <img src="https://github.com/daphnecarvalho/daphnecarvalho/blob/main/emoji.svg" width="24px">
+  
 I'm [Daphne Carvalho](https://www.linkedin.com/in/daphnecarvalho/).
 I'm a Computer Engineer focused on quality and efficiency during software development. <br/>
 I have experience working as a full-stack (front/back-end) web developer.
