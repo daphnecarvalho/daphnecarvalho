@@ -4,16 +4,16 @@ I'm [Daphne Carvalho](https://www.linkedin.com/in/daphnecarvalho/).
 I'm a Computer Engineer focused on quality and efficiency during software development. <br/>
 I have experience working as a full-stack (front/back-end) web developer.
 
-
 - 🌱 I’m currently learning TypeScript, Elixir, Node.js, ReactJS, and React Native
 
-<br/>
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daphnecarvalho&show_icons=true&hide_border=true&locale=en&layout=compact&theme=dracula" alt="daphnecarvalho" /></div>
-
-<br/>
-
-<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=daphnecarvalho&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="daphnecarvalho" /></div>
+<div align="center">
+  <span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnecarvalho&hide_border=true&locale=en&layout=compact&langs_count=10&theme=dracula" />
+  </span>
+  <span>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=daphnecarvalho&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </span>
+</div>
 
 ![Snake animation](https://github.com/daphnecarvalho/daphnecarvalho/blob/output/github-contribution-grid-snake.svg)
 
