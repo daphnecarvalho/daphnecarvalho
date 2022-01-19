@@ -8,7 +8,7 @@ I have experience working as a full-stack (front/back-end) web developer.
 
 <div align="center">
   <span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnecarvalho&hide_border=true&locale=en&layout=compact&langs_count=10&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnecarvalho&hide_border=true&locale=en&layout=compact&langs_count=10&hide=shell&theme=dracula" />
   </span>
   <span>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=daphnecarvalho&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
