@@ -15,7 +15,9 @@ I have experience working as a full-stack (front/back-end) web developer.
   </span>
 </div>
 
-![Snake animation](https://github.com/daphnecarvalho/daphnecarvalho/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img align="center" src="https://github.com/daphnecarvalho/daphnecarvalho/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 ### Contact info
 <a href="https://www.linkedin.com/in/daphnecarvalho/" target="_blank">
