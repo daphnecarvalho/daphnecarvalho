@@ -20,9 +20,9 @@ I have experience working as a full-stack (front/back-end) web developer.
 </div>
 
 ### Contact info
-<a href="https://www.linkedin.com/in/daphnecarvalho/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-daphnecarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daphnecarvalho/)](https://www.linkedin.com/in/daphnecarvalho/)
+[![Gmail Badge](https://img.shields.io/badge/-talk@daphnecarvalho.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talk@daphnecarvalho.dev)](mailto:talk@daphnecarvalho.dev)
 
 <!-- 
 - 🔭 I’m currently working on ...
