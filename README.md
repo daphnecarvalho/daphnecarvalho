@@ -1,10 +1,13 @@
 ### Hi there <img src="https://github.com/daphnecarvalho/daphnecarvalho/blob/main/emoji.svg" width="24px">
   
 I'm [Daphne Carvalho](https://www.linkedin.com/in/daphnecarvalho/).
-I'm a Computer Engineer focused on quality and efficiency during software development. <br/>
+
+I'm a Computer Engineer focused on quality and efficiency during software development.
+
 I have experience working as a full-stack (front/back-end) web developer.
 
 - 🌱 I’m currently learning TypeScript, Elixir, Node.js, ReactJS, and React Native
+- 📫 How to reach me: talk@daphnecarvalho.dev
 
 <div align="center">
   <span>
@@ -29,7 +32,6 @@ I have experience working as a full-stack (front/back-end) web developer.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
