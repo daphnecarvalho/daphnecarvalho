@@ -2,8 +2,6 @@
   
 I'm [Daphne Carvalho](https://www.linkedin.com/in/daphnecarvalho/).
 
-I'm a Computer Engineer focused on quality and efficiency during software development.
-
 I have experience working as a full-stack (front/back-end) web developer.
 
 - 🌱 I’m currently learning TypeScript, Elixir, Node.js, ReactJS, and React Native
