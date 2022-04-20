@@ -143,6 +143,24 @@ I work as a full-stack (front/back-end) web developer.
   />
 </a>
 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+    alt="postgresql"
+    width="40"
+    height="40"
+  />
+</a>
+
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -153,22 +171,18 @@ I work as a full-stack (front/back-end) web developer.
 </a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+     alt="linux" 
+     width="40" 
+     height="40"
+  /> 
 </a> 
 
 #### I'm looking forward to learn...
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-  />
 </a>
 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer">
@@ -184,15 +198,6 @@ I work as a full-stack (front/back-end) web developer.
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
     alt="docker"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-    alt="postgresql"
     width="40"
     height="40"
   />
