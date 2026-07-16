@@ -10,9 +10,9 @@ I work as a full-stack (front/back-end) web developer.
   />
 </a>
 
-<a href="mailto:talk@daphnecarvalho.dev" target="blank">
+<a href="mailto:dah.feh@hotmail.com" target="blank">
   <img 
-    src="https://img.shields.io/badge/-talk@daphnecarvalho.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talk@daphnecarvalho.dev)" 
+    src="https://img.shields.io/badge/-dah.feh@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dah.feh@hotmail.com)" 
     target="_blank" 
     height="25"
   />
